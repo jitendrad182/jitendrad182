@@ -7,7 +7,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/jitendrad182?label=Followers&style=social)](https://github.com/jitendrad182/?tab=follow)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendrad182&label=Profile%20views&color=0e75b6&style=flat" alt="jitendrad182" /> </p>
 
 
 ## Hi there 👋, 
@@ -36,9 +35,6 @@
 - 💬 Ping Me about :  #Flutter, #Firebase, #App Development, #Android Development, #C++ and anything you like.
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jitendrad182&show_icons=true&locale=en&layout=compact" alt="jitendrad182" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jitendrad182&show_icons=true&locale=en" alt="jitendrad182" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jitendrad182&" alt="jitendrad182" /></p>
 
 
 
@@ -57,4 +53,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendrad182&label=Profile%20views&color=0e75b6&style=flat" alt="jitendrad182" /> </p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jitendrad182&show_icons=true&locale=en&layout=compact" alt="jitendrad182" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jitendrad182&show_icons=true&locale=en" alt="jitendrad182" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jitendrad182&" alt="jitendrad182" /></p>
 -->
