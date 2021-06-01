@@ -27,11 +27,11 @@
 
 ## 👋 Hello world!
 
-- 🔭 I’m currently working on a Flutter Plasma Donation Application 
-- 🌱 I’m currently learning  Flutter, Firebase and C++
-- 💬 Ask me about  Flutter and Firebase
+- 🔭 I’m currently working on a Flutter Plasma Donation Application .
+- 🌱 I’m currently learning  Flutter, Firebase and NodeJS.
+- 💬 Ask me about  Flutter and Firebase.
 - 📫 How to reach me :  [Telegram](https://t.me/jitendrad182) 
-- ⚡ Fun fact :  I love meeting new people and i think i am funny
+- ⚡ Fun fact :  I love meeting new people and i think i am funny.
 - 💬 Ping Me about :  #Flutter, #Firebase, #App Development, #Android Development, #C++ and anything you like.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jitendrad182&show_icons=true&locale=en&layout=compact" alt="jitendrad182" /></p>
