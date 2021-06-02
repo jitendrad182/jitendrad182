@@ -30,7 +30,7 @@
 - 🔭 I’m currently working on a Flutter Plasma Donation Application .
 - 🌱 I’m currently learning  Flutter, Firebase and NodeJS.
 - 💬 Ask me about  Flutter and Firebase.
-- 📫 How to reach me :  [Telegram](https://t.me/jitendrad182) 
+- 📫 How to reach me :  [Twitter](https://twitter.com/jitendrad182) 
 - ⚡ Fun fact :  I love meeting new people and i think i am funny.
 - 💬 Ping Me about :  #Flutter, #Firebase, #App Development, #Android Development, #C++ and anything you like.
 
