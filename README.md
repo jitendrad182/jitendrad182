@@ -30,5 +30,4 @@
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jitendrad182&show_icons=true&count_private=true&theme=react&bg_color=0D1117" alt="Jitendrad182" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jitendrad182&show_icons=true&count_private=true&theme=react&bg_color=0D1117" alt="Jitendrad182" /></p>
 <p align="left"><a href="https://github.com/jitendrad182/github-readme-activity-graph"><img alt="Jitendra Dhakar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jitendrad182&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&" /></a></p>
