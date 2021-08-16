@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/jitendrad182/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/jitendrad182" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://instagram.com/jitendrad182" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:mailto:jitendradhakar182@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:jitendradhakar182@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 ![GitHub followers](https://img.shields.io/github/followers/jitendrad182?style=for-the-badge)
 
 
